@@ -1,6 +1,6 @@
 FROM hanhan1978/gnu-global:latest
 
-ENV PHP_VERSION  7.2.6
+ENV PHP_VERSION  5.5.38
 
 WORKDIR /tmp
 
